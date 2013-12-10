@@ -16,6 +16,9 @@
     "node": "0.10.x"
   },
   "dependencies": {
-    "seismo": "0.0.9"
+    "seismo": "0.0.9",
+    "colors": "~0.6.2",
+    "moment": "~2.4.0",
+    "node-logentries": "~0.1.2"
   }
 }
