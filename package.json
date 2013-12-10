@@ -5,6 +5,10 @@
   "scripts": {
     "watch": "nodemon --watch source --watch config source/server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/likeastore/analytics.git"
+  },
   "keywords": [
     "analytics",
     "events",
