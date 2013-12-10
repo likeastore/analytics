@@ -1,6 +1,6 @@
 {
   "name": "analytics",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Likeastore analytics server, based on Seismo",
   "scripts": {
     "watch": "nodemon --watch source --watch config source/server.js"
