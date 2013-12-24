@@ -3,7 +3,7 @@
   "version": "0.0.9",
   "description": "Likeastore analytics server, based on Seismo",
   "scripts": {
-    "watch": "nodemon --watch source --watch config source/server.js"
+    "watch": "nodemon --watch source --watch config app.js"
   },
   "repository": {
     "type": "git",

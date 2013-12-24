@@ -1,5 +1,5 @@
 var config = {
-	connection: 'mongodb://localhost:27017/analyticsdb',
+	connection: 'mongodb://localhost:27017/likeastoredb',
 
 	applicationUrl: 'http://localhost:3005',
 
