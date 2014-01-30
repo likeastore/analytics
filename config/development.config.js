@@ -12,7 +12,7 @@ var config = {
 	},
 
 	users: {
-		'likeastore': '$2a$12$.Xp6U9nnZKVq78peM.M8ye1o2wd4H6YE40N/JMWEd7mqXidNGbEg2'
+		'likeastore': '$2a$12$8SaOzxMPPwHAwbkKC9Y4pumZdgh8LJ4V1BXL5FfMmpVWcz.i4Om.2'
 	}
 };
 
